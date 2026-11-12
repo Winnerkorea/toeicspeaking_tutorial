@@ -116,3 +116,37 @@
 - **Q7:** He will meet with ABC Company on Wednesday, December 2, from 10:00 a.m. to 12:00 p.m.
 - **Q8:** No, the business dinner is on December 2, from 6:00 to 8:00 p.m., not December 3.
 - **Q9:** On December 2, he has three schedules. From 10 to 12, he has a meeting with ABC Company. From 1 to 3, he will have a factory tour. Finally, from 6 to 8 in the evening, he has a business dinner at Marina Bay Restaurant.
+
+깔끔하게 보기 좋도록 영어 문장과 한국어 발음을 분리해서 정리해 드릴게요!
+
+---
+
+### Q7
+
+**English:**
+The instructor for the Customer Service Skills course is Ms. Grace Lee.
+
+**한국어 발음:**
+더 인스트럭터 포 더 커스터머 서비스 스킬스 코스 이즈 미즈 그레이스 리.
+
+---
+
+### Q8
+
+**English:**
+No, that's not correct. It will be held on Wednesday, November 18, from 1:00 to 4:00 p.m., not Tuesday.
+
+**한국어 발음:**
+노, 댓츠 낫 커렉트. 잇 윌 비 헬드 온 웬즈데이, 노벰버 에이틴, 프롬 원 투 포 피엠, 낫 튜즈데이.
+
+---
+
+### Q9
+
+**English:**
+There are two courses on November 18. First, from 9:00 to 12:00, Ms. Grace Lee will teach Customer Service Skills. Then, from 1:00 to 4:00, Mr. Daniel Seo, the Product Manager, will teach Product Knowledge Training.
+
+**한국어 발음:**
+데어 아 투 코시스 온 노벰버 에이틴. 퍼스트, 프롬 나인 투 트웰브, 미즈 그레이스 리 윌 티치 커스터머 서비스 스킬스. 덴, 프롬 원 투 포, 미스터 대니얼 서, 더 프로덕트 매니저, 윌 티치 프로덕트 날리지 트레이닝.
+
+
